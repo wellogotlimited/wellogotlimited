@@ -5,13 +5,13 @@ welcome
 
 
 ```bash
->> cat whatiknow.txt
+>> cat wello.txt
 C++/C
 C#
 Next
 React
 Javascript/Typescript
+Rust
 - Go (soon)
-- Rust (soon)
 - Java (soon)
 ```
